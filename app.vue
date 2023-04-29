@@ -1,8 +1,9 @@
 <template>
-  <div>
-    <h1 class="text-red-700 text-5xl">
-      SCHERMATA PRINCIPALE
-    </h1>
-    <IntroBody />
+  <div class="h-screen bg-slate-500">
+    <NuxtLayout>
+
+      <Main />
+
+    </NuxtLayout>
   </div>
 </template>
