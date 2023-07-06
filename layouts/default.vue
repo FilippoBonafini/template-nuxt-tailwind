@@ -1,7 +1,7 @@
 <template>
     <div>
         <LayoutElementsNavBar />
-<h1>Layout di default</h1>
+        <h1>Layout di default</h1>
         <slot>
 
         </slot>
